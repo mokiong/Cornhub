@@ -1,4 +1,4 @@
-![alt text](https://github.com/mokiong/Cornhub/blob/master/cornhub-logo.png?raw=true)
+![logo](https://github.com/mokiong/Cornhub/blob/master/web/images/cornhub-logo.png?raw=true)
 
 # Cornhub
 
