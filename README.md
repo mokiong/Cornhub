@@ -7,7 +7,6 @@
 - Servlets
 - JSP
 - MySQL
-- AES
 - Bootstrap
 
 ### Design patterns used:
